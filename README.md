@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddk070
 - 目前是大學生
-- 學過 HTML、CSS、JavaScript、Dreamwear
+- 學過 HTML、CSS、JavaScript、Dreamwear、Markdown
 - 現研究 git、powershell
 
 除了程式以外，淺學過
