@@ -4,12 +4,14 @@
 - 現研究 git、powershell
 
 除了程式以外，淺學過
-- 3D ( Maya、Blender、SP )
+- 3D ( Maya、Blender、SP、手工雕塑 )
 - 2D ( Photoshop、CLIP STUDIO PAINT )
 - 動畫 ( CLIP STUDIO PAINT、OpenToonz、Flipaclip )
 - 剪輯 ( Audacity、DaVinci Resolve、剪映、Adobe After Effects )
 - 文書 ( Word、Excel、PowerPoint )
 
+現繼續研究
+* Maya、Blender、Zbrush
 
 <!---
 ddk070/ddk070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
