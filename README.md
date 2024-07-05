@@ -6,7 +6,7 @@
 除了程式以外，淺學過
 - 3D ( Maya、Blender、SP、手工雕塑 )
 - 2D ( Photoshop、CLIP STUDIO PAINT )
-- 動畫 ( CLIP STUDIO PAINT、OpenToonz、Flipaclip )
+- 2D動畫 ( CLIP STUDIO PAINT、OpenToonz、Flipaclip )
 - 剪輯 ( Audacity、DaVinci Resolve、剪映、Adobe After Effects )
 - 文書 ( Word、Excel、PowerPoint )
 
