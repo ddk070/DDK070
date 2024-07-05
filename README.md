@@ -4,11 +4,12 @@
 - 現研究 git、powershell
 
 除了程式以外，淺學過
-- 3D ( Maya、Blender、SP、手工雕塑 )
+- 3D ( Maya、Blender、SP )
 - 2D ( Photoshop、CLIP STUDIO PAINT )
 - 2D動畫 ( CLIP STUDIO PAINT、OpenToonz、Flipaclip )
 - 剪輯 ( Audacity、DaVinci Resolve、剪映、Adobe After Effects )
 - 文書 ( Word、Excel、PowerPoint )
+- 手工雕塑、劇本、分鏡、動態分鏡、攝影
 
 現繼續研究
 * Maya、Blender、Zbrush
