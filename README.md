@@ -6,7 +6,6 @@
 - HTML、CSS、JavaScript
 - Dreamwear
 - Bootstrap
-- Markdown
 - git
 
 🪄 現繼續研究
