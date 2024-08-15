@@ -18,9 +18,10 @@ You can click the Preview link to take a look at your changes.
 - Bootstrap
 - Markdown
 - git
+- vim
 
 🪄 現繼續研究
--  Astro Framework、Linux、vim、powershell
+-  Astro Framework、Linux、powershell
 
 ⚙️ 除了程式以外，淺學過
 - 3D ( Maya、Blender、SP )
