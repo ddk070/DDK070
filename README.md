@@ -1,4 +1,5 @@
-<h1>interest<\h1>
+<h1 style="border: none;">interest</h1>
+
 ![](https://media.tenor.com/bhVEt__Nyu8AAAAM/vibe.gif)
 
 # my projects
