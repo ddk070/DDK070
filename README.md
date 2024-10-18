@@ -1,4 +1,4 @@
-<div><h1 style="border: none;">interest</h1></div>
+<div>interest</div>
 
 ![](https://media.tenor.com/bhVEt__Nyu8AAAAM/vibe.gif)
 
