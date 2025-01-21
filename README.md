@@ -7,6 +7,6 @@
 > Put my reading notes with Chinese descriptions
 ### 2. [DYU webside](https://github.com/ddk070/webside)
 > Making my school website for announcements
-> (but not finished yet)
+>  (but not finished yet)
 ### 3. [Software-recommendation](https://github.com/ddk070/Software-recommendation)
 > Recommend useful software with Chinese descriptions
