@@ -19,5 +19,6 @@
 > btw all document with Chinese descriptions
 
 ### 4. [🍀DYU webside](https://github.com/ddk070/webside)
-> Making my school website for announcements
->  (but not finished yet)
+> Want to spread school information, so create an unofficial website for the school. <br>
+>  But due to the small number of students in the school and the heavy workload,<br>
+> it has not been completed and updated. (2024-08-24)
