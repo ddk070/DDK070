@@ -5,7 +5,7 @@
 🌏Translate：
 [中文](https://github.com/ddk070/DDK070/tree/main) <br>
 
-# my projects
+# my repositories
 ### 1. [📝📚Reading-experience](https://github.com/ddk070/Reading-experience)
 > Put my reading notes with Chinese descriptions
 
