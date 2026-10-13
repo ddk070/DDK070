@@ -23,12 +23,13 @@
 >  But due to the small number of students in the school and the heavy workload,<br>
 > it has not been completed and updated. (2024-08-24)
 
-### 5. [Ⓜ️justanote-web](https://github.com/ddk070/justanote-web)(WIP)
+### 5. [Ⓜ️justanote-web](https://github.com/ddk070/justanote-web)（WIP）
 > Writing Maya study notes with Chinese descriptions
+
 
 # ABOUT ME
 
 ### [My personal website](https://xuan-sand.vercel.app/)
 > Further beautification and updates will continue in the future.
 
-![hi](https://tenor.com/zh-TW/view/waving-joy-lizard-hi-there-well-hello-there-gif-15622233555234689915)
+![hi](https://media1.tenor.com/m/UY_0nvL3aRYAAAAC/oh-hiiii-oh-hi.gif)
