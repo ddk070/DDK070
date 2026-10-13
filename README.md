@@ -26,10 +26,11 @@
 ### 5. [Ⓜ️justanote-web](https://github.com/ddk070/justanote-web)（WIP）
 > Writing Maya study notes with Chinese descriptions
 
+<br>
 
 # ABOUT ME
 
-### [My personal website](https://xuan-sand.vercel.app/)
+### [🐢My personal website](https://xuan-sand.vercel.app/)
 > Further beautification and updates will continue in the future.
 
 ![hi](https://media1.tenor.com/m/UY_0nvL3aRYAAAAC/oh-hiiii-oh-hi.gif)
