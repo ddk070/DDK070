@@ -18,7 +18,17 @@
 > Hope this helps people who have the same problem. <br>
 > btw all document with Chinese descriptions
 
-### 4. [🍀DYU webside](https://github.com/ddk070/webside)
+### 4. [🍀DYU webside](https://github.com/ddk070/webside)（Stopped）
 > Want to spread school information, so create an unofficial website for the school. <br>
 >  But due to the small number of students in the school and the heavy workload,<br>
 > it has not been completed and updated. (2024-08-24)
+
+### 5. [Ⓜ️justanote-web](https://github.com/ddk070/justanote-web)(WIP)
+> Writing Maya study notes with Chinese descriptions
+
+# ABOUT ME
+
+### [My personal website](https://xuan-sand.vercel.app/)
+> Further beautification and updates will continue in the future.
+
+![hi](https://tenor.com/zh-TW/view/waving-joy-lizard-hi-there-well-hello-there-gif-15622233555234689915)
