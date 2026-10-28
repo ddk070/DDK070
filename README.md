@@ -3,7 +3,7 @@
 ![dance](https://media.tenor.com/bhVEt__Nyu8AAAAM/vibe.gif)
 
 🌏Translate：
-[中文](https://github.com/ddk070/DDK070/tree/main) <br>
+[中文](https://github.com/ddk070/DDK070/blob/main/%E4%B8%AD%E6%96%87%E6%AA%94%E6%A1%88.md) <br>
 
 # my repositories
 ### 1. [📝📚Reading-experience](https://github.com/ddk070/Reading-experience)
